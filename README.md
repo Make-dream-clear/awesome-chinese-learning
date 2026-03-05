@@ -37,6 +37,7 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [Music](#music)
     * [NetEase Cloud Music (网易云音乐)](#netease-cloud-music-网易云音乐)
     * [QQ Music (QQ音乐)](#qq-music-qq音乐)
+* [HSK Online Test](#hsk-online-test)
 * [Calligraphy & Writing](#calligraphy--writing)
   * [Shufazidian (书法字典)](#shufazidian-书法字典)
   * [How to write Chinese character (Android application)](#how-to-write-chinese-character-android-application)
@@ -209,8 +210,8 @@ A lot of free ebooks, podcast and else. It is one of the most popular applicatio
 
 Most of the books present in the websites/applications (even behind paywalls) that has just been listed are not accessible outside of China. I tried to subscribe to most of them and couldn't have access to the popular book from France (I did try using the VPN of my school to pretend that I was in China and it didn't work either).
 
-### HSK Online Test
-[HSK 4 Mock Exam](https://github.com/Make-dream-clear/hsk4-mock-exam) - 12 complete HSK 4 practice tests with 1,176 questions in JSON format. Listening, reading, and writing sections with answer keys. [Online demo](https://hsk4.mandarinzone.com/).
+## HSK Online Test
+- [HSK 4 Mock Exam](https://github.com/Make-dream-clear/hsk4-mock-exam) - 12 complete HSK 4 practice tests with 1,176 questions in JSON format. Listening, reading, and writing sections with answer keys. [Online demo](https://hsk4.mandarinzone.com/).
 
 ### Music
 
